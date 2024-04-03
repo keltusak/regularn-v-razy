@@ -1,4 +1,4 @@
-from email import validate_email
+from .email import validate_email
 
 
 def test_valid_email():

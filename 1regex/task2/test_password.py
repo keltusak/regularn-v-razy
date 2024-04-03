@@ -1,4 +1,4 @@
-from password  import validate_password
+from .password  import validate_password
 
 
 def test_valid_passwords():

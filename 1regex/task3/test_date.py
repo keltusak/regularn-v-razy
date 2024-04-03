@@ -1,4 +1,4 @@
-from date import find_dates
+from .date import find_dates
 
 
 def test_find_dates():
